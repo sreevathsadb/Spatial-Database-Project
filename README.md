@@ -6,4 +6,4 @@ Dataset is available in below link
 * https://www.sciencebase.gov/catalog/file/get/607611a9d34e018b3201cbbf?f=__disk__34%2F4b%2Fcb%2F344bcb00f8be64dc390047b679eb0bec50dd95d5
 
 Code is hosted on Github.
-* https://github.com/aveek22/cs621-spatial-db
+* https://github.com/sreevathsadb/Spatial-Database-Project
